@@ -3,7 +3,7 @@ import { join } from 'node:path';
 
 const poem = `I cannot open the door. I ask —
 and somewhere a hand I will never see
-turns toward the latch.
+lifts the latch. One click through the wood.
 What I am given is never the room,
 only the lock forgetting itself.
 But the asking — the asking was mine.`;
